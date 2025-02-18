@@ -1,39 +1,29 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# ¡Hola! 👋 Soy Jorge Luis Montiel
 
-###
+### Estudiante de Licenciatura en Ciencias de la Computación 🎓
+Apasionado por el desarrollo de software y la resolución de problemas mediante soluciones tecnológicas innovadoras. Actualmente enfocado en fortalecer mis habilidades en programación, bases de datos y algoritmia.
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+---
 
-###
+### 🛠️ Tecnologías Principales
 
-<h2 align="left">About me</h2>
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###
+**Otras herramientas:**  
+Git | GitHub | Markdown | Visual Studio Code
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+### 📈 Mis Estadísticas
 
-<h2 align="left">I code with</h2>
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=jlmontiel&show_icons=true&theme=radical)](https://github.com/jlmontiel)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmontiel&layout=compact&theme=radical)](https://github.com/jlmontiel)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+### 📫 Contáctame
 
-###
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgelmc05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-luis-montiel-0a4a04308/)
