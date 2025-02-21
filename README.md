@@ -12,7 +12,7 @@ Apasionado por el desarrollo de software y la resolución de problemas mediante 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Otras herramientas:**  
-Git | GitHub | Markdown | Visual Studio Code
+Git | GitHub | Markdown | Visual Studio Code | Docker
 
 ---
 
